@@ -1,0 +1,8 @@
+pinecone-client==5.0.1
+sentence-transformers==3.0.1
+fastapi==0.112.2
+uvicorn==0.30.6
+pandas==2.0.3
+python-dotenv
+tqdm
+python-multipart
